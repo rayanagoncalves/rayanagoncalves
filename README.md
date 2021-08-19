@@ -1,6 +1,6 @@
 ### About me 🙋🏽‍♀️
 
-- <b>Name:</b> Rayana Gonçalves
+ - <b>Name:</b>  <a href="https://rayanagoncalves.github.io/site-pessoal/#inicio">Rayana Gonçalves</a>
 - <b>Age:</b> 22 years
 - <b>Pronuns:</b> She/Her
 - <b>Lives in:</b> Recife/PE 🌴 
@@ -19,14 +19,14 @@
 <b>Databases:</b>
  
 <div style="display: inline_block">
-   <img align="center" alt="Rayana-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+  <img align="center" alt="Rayana-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="Rayana-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
  
 <br><b>How to contact me:</b><br>
  
 <div> 
-  <a href = "mailto:rayana.goncalves.cunha@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="mailto:rayana.goncalves.cunha@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rayana-gon%C3%A7alves-6b2b8747" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  </div>
