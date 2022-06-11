@@ -1,7 +1,7 @@
 ### About me 🙋🏽‍♀️
 
  - <b>Name:</b>  <a href="https://rayanagoncalves.github.io/site-pessoal/#inicio">Rayana Gonçalves</a>
-- <b>Age:</b> 22 years
+- <b>Age:</b> 23 years
 - <b>Pronouns:</b> She/Her
 - <b>Lives in:</b> Recife/PE 🌴 
 
