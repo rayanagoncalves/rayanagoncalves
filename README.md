@@ -1,4 +1,4 @@
-### Hello! I'm Rayana, a Back-end Software Engineer! 👩🏽‍💻
+### Hello! I'm Rayana, a Back-end Developer! 👩🏽‍💻
 
  - <b>Name:</b>  <a href="https://rayanagoncalves.github.io/site-pessoal/#inicio">Rayana Gonçalves</a>
 - <b>Age:</b> 24 years
