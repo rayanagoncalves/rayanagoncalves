@@ -4,6 +4,7 @@
 - <b>Age:</b> 24 years
 - <b>Pronouns:</b> She/Her
 - <b>Lives in:</b> Recife/PE 🌴 
+- <b>Academic Background:</b>  Bachelor's degree in Computer Science and postgraduate degree in software engineering and project management.
 
 ##
 
