@@ -1,7 +1,7 @@
 ### Hello! I'm Rayana, a Back-end Developer! 👩🏽‍💻
 
  - <b>Name:</b>  <a href="https://rayanagoncalves.github.io/site-pessoal/#inicio">Rayana Gonçalves</a>
-- <b>Age:</b> 25 years
+- <b>Age:</b> 26 years
 - <b>Pronouns:</b> She/Her
 - <b>Lives in:</b> Recife/PE 🌴 
 - <b>Academic Background:</b>  Bachelor's degree in Computer Science and postgraduate degree in software engineering and project management.
